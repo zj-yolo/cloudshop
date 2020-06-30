@@ -1,0 +1,30 @@
+.cshop-index {
+    .index-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 0 10px;
+        width: 100vw;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: var(--themeColor);
+        z-index: 9;
+      .header-title {
+          font-size: 20px;
+          color: #fff;
+  
+      }
+  
+    }
+    .index-swiper{
+        margin-top: 50px;
+        width: 100vw;
+        height: 160px;
+        img{
+            height: 160px;
+            width: 100%;
+        }
+    }
+  }
