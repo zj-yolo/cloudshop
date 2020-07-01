@@ -41,12 +41,22 @@
 .icon-add {
     background-position: -320px -175px;
 }
-
+.icon-addCommunity{
+    background-position: -320px -175px;
+    background-size: 350px 350px;
+}
+.icon-share{
+    background-position: -320px -140px;
+    background-size: 350px 350px;
+}
 .icon-radio-check {
     background-size    : 300px 300px;
     background-position: -95px -128px;
 }
-
+.icon-toright{
+    background-size: 240px 240px;
+    background-position: -177px -6px;
+}
 .icon-radio {
     background-size    : 300px 300px;
     background-position: -127px -128px;
